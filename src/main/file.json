@@ -1,0 +1,11 @@
+[
+  {"update_id":418672077,"message":
+  {"message_id":23,"from":
+  {"id":197457261,"is_bot":false,"first_name":"Nikolay","last_name":"Savin","username":"ksavin22","language_code":"ru-RU"},
+    "chat":{"id":197457261,"first_name":"Nikolay","last_name":"Savin","username":"ksavin22","type":"private"},
+    "date":1525882630,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}},
+  {"update_id":418672078,"message":
+  {"message_id":24,"from":
+  {"id":300759932,"is_bot":false,"first_name":"Aslan","last_name":"Sugarov","language_code":"ru-ru"},
+    "chat":{"id":300759932,"first_name":"Aslan","last_name":"Sugarov","type":"private"},
+    "date":1525940847,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]
